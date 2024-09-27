@@ -1,0 +1,14 @@
+# Ignore build directories
+build-*
+
+# Qt user-specific files
+*.pro.user
+*.pro.user.* 
+*.moc
+*.obj
+*.o
+*.dll
+*.exe
+*.so
+*.dSYM
+*.swp
